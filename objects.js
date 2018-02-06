@@ -6,7 +6,7 @@ var playlist ={
 
 function updatePlaylist(object, key, value ){
   
-    object[keye] = value;
+    object[key] = value;
     return object;
   
 }
