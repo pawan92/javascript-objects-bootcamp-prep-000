@@ -4,7 +4,7 @@ var playlist ={
   
 }
 
-function updatePlaylist(playlist, ){
+function updatePlaylist(object, key, value ){
   
   
 }
