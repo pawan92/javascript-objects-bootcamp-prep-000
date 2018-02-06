@@ -5,8 +5,9 @@ var playlist ={
 }
 
 function updatePlaylist(object, key, value ){
-  return object.key=value;
   
+    object[keye] = value;
+    return object;
   
 }
 
